@@ -33,3 +33,4 @@ A high-reliability modular C++ project for STM32. It implements clean architectu
 ### 📫 Connect with Me
 - Email: zaptrons.dev@gmail.com
 - *GitHub: @Zaptrons (https://github.com/Zaptrons)
+÷
